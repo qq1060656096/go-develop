@@ -14,8 +14,17 @@ go-develop  go开发目录
 ├─rfc           rfc目录
 │  ├─4122           rfc-4122: uuid生成
 │  │  ├─uuid            uuid生成
-├─tools         资源目录
+├─tools         工具目录
 ├─.gitignore    .git忽略文件
 ├─LICENSE.txt   授权协议文件
 ├─README.md     README文件
 ```
+
+### go常用库(pkg)
+* **已定稿** [ip包](https://github.com/qq1060656096/go-develop/tree/master/pkg/ip)
+> 获取本机所有ip和mac地址
+
+
+### golang开发的cli工具
+* **已定稿** [批量序列生成器](https://github.com/qq1060656096/batch-generate-sequence)
+> 根据模板批量生成序列支持csv和excel
